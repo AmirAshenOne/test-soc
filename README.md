@@ -1,4 +1,5 @@
 # Building Entreprise Infrastructure
+
 ---
 
 # **Executive Summary:**
@@ -14,6 +15,8 @@ The implementation will conclude with a testing to validate the effectiveness of
 controls, supported by detailed technical documentation of the entire setup.
 > 
 
-[Phase 1 :Setup and Connectivity](https://www.notion.so/Phase-1-Setup-and-Connectivity-2f051cce94ed80079ee0c2a6e732133f?pvs=21)
+[Phase 1 :Setup and Connectivity](Building%20Entreprise%20Infrastructure/Phase%201%20Setup%20and%20Connectivity.md)
 
-[Phase 2 : Core AD & Service](https://www.notion.so/Phase-2-Core-AD-Service-2fb51cce94ed80f6a061f39aa3bc20dc?pvs=21)
+[Phase 2 : Core AD & Service](Building%20Entreprise%20Infrastructure/Phase%202%20Core%20AD%20&%20Service.md)
+
+[Phase 3:Perimeter Defense & Hadening](Building%20Entreprise%20Infrastructure/Phase%203%20Perimeter%20Defense%20&%20Hadening.md)
