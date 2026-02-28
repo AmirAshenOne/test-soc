@@ -15,8 +15,8 @@ The implementation will conclude with a testing to validate the effectiveness of
 controls, supported by detailed technical documentation of the entire setup.
 > 
 
-[Phase 1 :Setup and Connectivity](Building%20Entreprise%20Infrastructure/Phase%201%20Setup%20and%20Connectivity.md)
+[Phase 1:Setup and Connectivity](Building%20Entreprise%20Infrastructure/Phase%201%20Setup%20and%20Connectivity.md)
 
-[Phase 2 : Core AD & Service](Building%20Entreprise%20Infrastructure/Phase%202%20Core%20AD%20&%20Service.md)
+[Phase 2:Core AD & Service](Building%20Entreprise%20Infrastructure/Phase%202%20Core%20AD%20&%20Service.md)
 
 [Phase 3:Perimeter Defense & Hadening](Building%20Entreprise%20Infrastructure/Phase%203%20Perimeter%20Defense%20&%20Hadening.md)
